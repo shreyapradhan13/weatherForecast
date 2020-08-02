@@ -1,0 +1,13 @@
+body {
+    padding-top: 50px;
+  }
+  .weather-container {
+    padding: 40px 15px;
+    text-align: center;
+  }
+  
+  .table {
+    display: initial;
+    padding: 10px
+  }
+  
